@@ -1,4 +1,33 @@
-# Ask My Resume
+# Hi, I'm Steven — Full-Stack Developer
+
+I build AI-powered websites for small and large businesses alike — websites that don't just look good, they answer customers, take bookings, and turn visits into enquiries.
+
+Open to roles and client work building AI-powered websites.
+
+## What I build
+
+- AI-powered business websites with grounded chatbots that answer only from the business's own services, prices, and hours — no guessing, no hallucinating.
+- Booking and lead forms wired to real back ends, so enquiries don't get lost.
+- Fast, modern front ends and API routes with Next.js, React, and TypeScript, deployed on Vercel.
+- Evals that test the chatbot against real questions, including out-of-scope ones it should refuse.
+
+## Featured projects
+
+- **Lumen Hair Studio** — AI chatbot website for a salon. Live demo: https://ai-chatbot-site-tawny.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site
+- **SwiftFix Plumbing** — The same reusable AI website pattern, rebuilt for a plumbing business. Code: https://github.com/stevenleefa/ai-chatbot-site-plumbing
+- **Ask My Resume** — A grounded chatbot that answers questions about my background from my actual resume. See below.
+
+## Stack
+
+Next.js (App Router) · React · TypeScript · Git · GitHub · Vercel · OpenAI-compatible LLM APIs
+
+## Currently focused on
+
+AI product engineering: grounding, retrieval, prompt design, streaming, and evals — turning AI demos into production features businesses can rely on.
+
+---
+
+## Ask My Resume
 
 Week 1 project from my AI product engineering plan: a chatbot that answers questions
 about my professional background, grounded in my actual resume.
