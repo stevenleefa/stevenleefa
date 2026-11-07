@@ -7,19 +7,19 @@ Open to roles and client work building AI-powered websites.
 ## What I build
 
 - AI-powered business websites with grounded chatbots that answer only from the business's own services, prices, and hours — no guessing, no hallucinating.
-- Booking and lead forms wired to real back ends, so enquiries don't get lost.
+- Booking and lead forms that save to Supabase, with an owner leads list (statuses, repeat-customer counts), CSV export, and duplicate protection — proven end to end on the live plumbing demo.
 - Fast, modern front ends and API routes with Next.js, React, and TypeScript, deployed on Vercel.
 - Evals that test the chatbot against real questions, including out-of-scope ones it should refuse.
 
 ## Featured projects
 
-- **Lumen Hair Studio** — AI chatbot website for a salon. Live demo: https://ai-chatbot-site-tawny.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site
-- **SwiftFix Plumbing** — The same reusable AI website pattern, rebuilt for a plumbing business. Code: https://github.com/stevenleefa/ai-chatbot-site-plumbing
+- **Lumen Hair Studio** — AI chatbot website for a salon, with booking enquiries saved to Supabase and an owner leads list. Live demo: https://ai-chatbot-site-tawny.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site
+- **SwiftFix Plumbing** — The same reusable AI website pattern, rebuilt for a plumbing business, with saved leads proven end to end live. Live demo: https://ai-chatbot-site-plumbing.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site-plumbing
 - **Ask My Resume** — A grounded chatbot that answers questions about my background from my actual resume. See below.
 
 ## Stack
 
-Next.js (App Router) · React · TypeScript · Git · GitHub · Vercel · OpenAI-compatible LLM APIs
+Next.js (App Router) · React · TypeScript · Supabase · Git · GitHub · Vercel · OpenAI-compatible LLM APIs
 
 ## Currently focused on
 
@@ -51,11 +51,11 @@ defaults to OpenRouter's free tier, so it costs nothing to run.
 ## What I learned (Week 1)
 
 - **Tokens** are the unit of everything: cost, speed, and context all trace back to them.
-- **Context window** = the model's working memory. "RAG" just means retrieving the
+- **Context window** = the model's working memory. \"RAG\" just means retrieving the
   right documents and stuffing them into it before asking the question.
 - **Temperature** controls randomness: ~0 for facts, higher for creativity.
 - **System prompt** = the job description; **user message** = the task. Getting the
-  system prompt right is most of "prompt engineering."
+  system prompt right is most of \"prompt engineering.\"
 - **Streaming** is a UX trick (tokens arrive as generated) that makes answers feel
   2–3x faster.
 - The API speaks the **OpenAI chat-completions format** (the lingua franca of LLM APIs),
