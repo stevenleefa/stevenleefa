@@ -14,10 +14,9 @@ Open to roles and client work building AI-powered websites.
 - Fast, modern front ends and API routes with Next.js, React, and TypeScript, deployed on Vercel.
 - Evals that test the chatbot against real questions, including out-of-scope ones it should refuse.
 
-## Featured projects
+## Featured Project
 
 - **Lumen Hair Studio** — AI chatbot website for a salon: grounded chat that books, Supabase leads, owner dashboard, invite-only auth, customers and appointments, shop with Stripe, reviews, dark mode, CI/CD, Docker, Kubernetes, and n8n automations. Details below. Live demo: https://ai-chatbot-site-tawny.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site
-- **SwiftFix Plumbing** — The same reusable AI website pattern, rebuilt for a plumbing business, with saved leads proven end to end live. Live demo: https://ai-chatbot-site-plumbing.vercel.app/ · Code: https://github.com/stevenleefa/ai-chatbot-site-plumbing
 
 ## Stack
 
