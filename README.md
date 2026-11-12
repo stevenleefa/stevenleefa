@@ -1,6 +1,6 @@
 # Full-Stack Engineer
 
-I'm a full-stack engineer building AI-powered websites for small and large businesses alike — websites that don't just look good, they answer customers, take bookings, and turn visits into enquiries.
+I'm a full-stack engineer building AI-powered websites for small and large businesses alike — a hybrid of engineering and AI product work. My sites don't just look good: they answer customers, take bookings, and turn visits into enquiries, and enquiries into profits.
 
 Open to roles and client work building AI-powered websites.
 
