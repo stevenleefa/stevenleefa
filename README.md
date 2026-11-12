@@ -1,4 +1,4 @@
-# Hi, I'm Steven — Full-Stack Developer
+# Full-Stack Developer
 
 I build AI-powered websites for small and large businesses alike — websites that don't just look good, they answer customers, take bookings, and turn visits into enquiries.
 
