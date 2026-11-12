@@ -8,7 +8,7 @@ Open to roles and client work building AI-powered websites.
 
 - AI-powered business websites with grounded chatbots that answer only from the business's own services, prices, and hours — no guessing, no hallucinating.
 - Chat that does things, not just answers: it checks real availability and books appointments through the conversation, with server-side validation — and a free mode that needs no API key.
-- Booking and lead forms that save to Supabase, with an owner leads list (statuses, repeat-customer counts), CSV export, and duplicate protection — proven end to end on the live plumbing demo.
+- Booking and lead forms that save to Supabase, with an owner leads list (statuses, repeat-customer counts), CSV export, and duplicate protection — proven end to end on a live demo.
 - Owner areas with real auth (invite-only staff, admin/staff roles): dashboards, customers, appointments, employees, orders.
 - Shops with real payments (Stripe Checkout) and moderated customer reviews.
 - Fast, modern front ends and API routes with Next.js, React, and TypeScript, deployed on Vercel.
