@@ -2,7 +2,7 @@
 
 I'm a full-stack engineer building AI-powered websites for small and large businesses alike — a hybrid of engineering and AI product work. My sites don't just look good: they answer customers, take bookings, and turn visits into enquiries, and enquiries into profits.
 
-Open to roles and client work building AI-powered websites.
+Open to roles and client work building AI-powered websites — and to purist full-stack or front-end work that isn't heavily dependent on AI.
 
 ## What I build
 
